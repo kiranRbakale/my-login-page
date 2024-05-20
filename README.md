@@ -21,11 +21,7 @@
                     <td><input type="submit" name="btnsubmit"></td>
                     <td><input type="reset" name="btnclear" value="Clear"></td>
                 </tr>
-                <tr>
-                    <td colspan="2">
-                        <a href="Signup_page.html" target="displayContent"> Sign Up </a>
-                    </td>
-                </tr>
+                
             </table>
         </fieldset>
     </form>
